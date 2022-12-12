@@ -15,7 +15,8 @@ namespace テスト
     public partial class EvenForm : Form
     {
         //接続文字列
-        String connString = "Server=127.0.0.1;User=root;Database=calendar;Password=Wooperlooper0H13030AOIKAI;";
+        //String connString = "Server=127.0.0.1;User=root;Database=calendar;Password=Wooperlooper0H13030AOIKAI;";
+        String connString = "Server=10.16.201.206;User=;Database=calendar;Password=Kaiami;";
 
         //T already created a database using 
         public EvenForm()
